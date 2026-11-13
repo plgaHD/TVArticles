@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Science+Gothic:wght@100..900&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
+
+table {
+  border-collapse: collapse;
+  border: 0
+}
+
+
+td {
+  border: 5px solid white
+}
+
+thead {
+  background-color: orange
+
+}
+
+tbody {
+  background-color: orange
+
+}
+
+.wtext {
+  color: white
+}
+
+.akbulakurl {
+
+      color: green
+}
+
+.akbulakurl:hover {
+
+  color: red;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+p {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.wtext {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.akbulakurl {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
